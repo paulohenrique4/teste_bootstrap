@@ -12,12 +12,14 @@ background-color: #B40404;   /* cor do primeiro layout*/
 
 
 body {   /*imagem dourada de fundo do site */
-    background="wallpaper-hyrule-edition_640x1136.jpg"  no-repeat center top fixed; no-repeat center top fixed;
+    background="wallpaper-hyrule-edition_640x1136.jpg"  no-repeat center top fixed; no-repeat center top fixed; 
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
 
 }
+
 
