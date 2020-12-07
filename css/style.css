@@ -11,6 +11,10 @@ background-color: #B40404;   /* cor do primeiro layout*/
 }
 
 
+
+
+
+
 body {   /*imagem dourada de fundo do site */
     background="wallpaper-hyrule-edition_640x1136.jpg"  no-repeat center top fixed; no-repeat center top fixed; 
 
@@ -19,48 +23,24 @@ body {   /*imagem dourada de fundo do site */
     -o-background-size: cover;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 110% 
+
 
 }
 
+header{
 
-#float-right{
-    background-color:#E0EEEE;
-    border:solid 2px #0B610B;
-    border-radius:10px;
-    width:265px;
-    height:32px;
- 
+    background-image: url(teste_bootstrap\oot.jpg);
 
+    background-size: cover;
 
-    
-  }
-
-  #txtBusca{
-    float:left;
-    background-color:transparent;
-    padding-left:5px;
-    font-size:18px;
-    border:none;
-    height:32px;
-    width:191px;
-    
-
-  }
-
-    #btnBusca{
-    border:none;
-    float:left;
-    height:32px;
-    border-radius:0 7px 7px 0;
-    width:70px;
-    font-weight:bold;
-    background:#0B610B;
-  }
+    height: 450px;
+    width: 50%;
   
-  #divBusca img{
-    float:left;
-  }
 
+
+}
 
 
   
